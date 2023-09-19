@@ -1,0 +1,8 @@
+util\HibernateUtilx.class
+util\HibernateUtil.class
+model\Passenger.class
+test\App_OneTOMany.class
+com\mycompany\mavenprojecthibernate\MavenPRojectHibernate.class
+dao\BookingDao.class
+model\Booking.class
+dao\PassengerDao.class
